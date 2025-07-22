@@ -1,4 +1,3 @@
-
 const firebaseConfig = {
   apiKey: "AIzaSyCbrxD4VMsBXHxt34U8Fmb21830tdHalno",
   authDomain: "indivio-school.firebaseapp.com",
