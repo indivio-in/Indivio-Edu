@@ -22,3 +22,4 @@ try {
   console.error("Firebase Initialization Failed:", error);
   document.body.innerHTML = '<h1>Error: Could not connect to Firebase. Check console and firebase-config.js.</h1>';
 }
+
